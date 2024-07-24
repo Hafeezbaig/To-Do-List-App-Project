@@ -6,6 +6,10 @@
 
 Welcome to the To-Do List App project! This application is a simple, yet efficient task manager that allows users to keep track of their tasks. The tasks are stored locally in the browser's local storage, ensuring that your to-do items persist even when the page is reloaded.
 
+## Deployment
+
+You can view the deployed project at: [Deployment Link](https://todo-list-app-project.hafeezbaig.in/)
+
 ## Features
 
 - **Add Tasks:** Easily add new tasks to your list.
